@@ -1,2 +1,2 @@
 # Criar Grafico de Pizza
- Com base nos categorias
+ Com base nas categorias
