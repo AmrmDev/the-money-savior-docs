@@ -350,6 +350,7 @@ A camada de `service` e `repository` permanece 100% intacta — apenas a camada 
 **Exportação PDF/Excel:**
 - Lambda separada triggerada por comando `/exportar`
 - Gera arquivo via biblioteca Go, faz upload no S3 e envia link temporário (pre-signed URL)
+- Arquivo contém informações do report mensal/semanal/diário
 
 ---
 
